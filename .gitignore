@@ -1,0 +1,6 @@
+*
+!.gitignore
+!.axiom_seal.gpg
+!manifest_2026.txt
+!slax7_femto_engine.py
+!.slax_pulse
